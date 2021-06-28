@@ -1,7 +1,7 @@
 // programing language: javascript
 // author: afzx.ahmad
 
-const dateTargetSource ='22 06 2021, 02:55:00';
+const dateTargetSource ='30 June 2021, 02:55:00';
 // get time target with milisecond
 const dateTarget = new Date(dateTargetSource).getTime();
 
